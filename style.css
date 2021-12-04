@@ -1,0 +1,36 @@
+head{
+    margin-top: 200px
+}
+
+body {
+    background-color: rgb(79, 117, 143);
+}
+.p {
+    margin: 20px;
+}
+
+.content {
+    z-index:auto;
+    width: 700px;
+    height: 450px;
+    margin: auto;
+    background-color: rgb(198, 212, 212);
+    border-radius: 6px;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 120px;
+  
+    
+}
+
+
+input {
+    
+    margin-right: 10px;
+    border-collapse: 10px;
+
+    background-color: rgb(198, 212, 212);
+    margin:10px;
+    width: 300px;
+    
+}
